@@ -1,0 +1,5 @@
+flutter_assets:
+  assets_path: assets/
+  output_path: lib/core/utils/
+  filename: test_assets.dart
+  field_prefix:
